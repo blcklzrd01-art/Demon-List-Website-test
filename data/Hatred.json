@@ -1,0 +1,18 @@
+{
+    "id": 123213,
+    "name": "Hatred",
+    "author": "Greg",
+    "creators": [],
+    "verifier": "Greg2",
+    "verification": "https://www.youtube.com/watch?v=xcoF72Uuxx0&tw",
+    "percentToQualify": "72",
+    "password": "Free To Copy",
+    "records": [
+              {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
