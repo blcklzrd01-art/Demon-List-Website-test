@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Proteus",
+    "author": "guuweir",
+    "creators": [],
+    "verifier": "guuweir",
+    "verification": "https://www.youtube.com/watch?v=fCIRP6QD2-U&t=4s",
+    "percentToQualify": "56",
+    "password": "Free To Copy",
+    "records": [
+             {
+            "user": "Greg2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
