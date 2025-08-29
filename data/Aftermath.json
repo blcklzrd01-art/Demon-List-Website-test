@@ -1,0 +1,18 @@
+{
+    "id": 1234567,
+    "name": "Aftermath",
+    "author": "Greg",
+    "creators": [],
+    "verifier": "Greg2",
+    "verification": "https://youtu.be/yih61qi5RWQ",
+    "percentToQualify": "72",
+    "password": "Free To Copy",
+    "records": [
+              {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
