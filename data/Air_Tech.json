@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Air Tech",
+    "author": "DooDooFart",
+    "creators": [],
+    "verifier": "DooDooFart",
+    "verification": "https://www.youtube.com/watch?v=kPOFcb0GGSA",
+    "percentToQualify": "56",
+    "password": "Free To Copy",
+    "records": [
+             {
+            "user": "Riot Gangle",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
