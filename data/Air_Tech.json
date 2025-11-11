@@ -3,16 +3,9 @@
     "name": "Air Tech",
     "author": "DooDooFart",
     "creators": [],
-    "verifier": "DooDooFart",
+    "verifier": "GreenCat",
     "verification": "https://www.youtube.com/watch?v=kPOFcb0GGSA",
     "percentToQualify": "56",
     "password": "Free To Copy",
-    "records": [
-             {
-            "user": "Riot Grangle",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": []
 }
