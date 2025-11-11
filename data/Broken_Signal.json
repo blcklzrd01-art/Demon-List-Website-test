@@ -3,16 +3,9 @@
     "name": "Broken Signal",
     "author": "DooDooFart",
     "creators": [],
-    "verifier": "DooDooFart",
+    "verifier": "GreenCat",
     "verification": "https://www.youtube.com/watch?v=Cqx7l5fI394&t=6s",
     "percentToQualify": "56",
     "password": "Free To Copy",
-    "records": [
-             {
-            "user": "GreenCat",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": []
 }
