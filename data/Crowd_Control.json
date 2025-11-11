@@ -7,12 +7,5 @@
     "verification": "https://www.youtube.com/watch?v=j3SyTgZn2IY",
     "percentToQualify": "56",
     "password": "Free To Copy",
-    "records": [
-             {
-            "user": "Riot Grangle",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": []
 }
